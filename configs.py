@@ -40,7 +40,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 │
 ╰──────[ 😎 ]───────────⍟
 """
-ABOUT_DEV_TEXT = f"""
+	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Hdhindibackup
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
